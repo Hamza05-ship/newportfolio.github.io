@@ -811,7 +811,7 @@ span {
 
 .top i {
     color: #f2f2f2;
-    background: #B29E7B;
+    background: linear-gradient(45deg, #816940, #b4a96b);
      font-size: 50px;
     padding: 15px;
     border-radius: 8.5rem;
@@ -1230,4 +1230,5 @@ span {
         font-size: 14px;
     }
 }
+
 
