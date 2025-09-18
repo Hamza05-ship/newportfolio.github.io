@@ -28,9 +28,10 @@ document.getElementById("contactForm").addEventListener("submit", function (even
 
 });
 
-const menuBtn = document.getElementById("menu-btn");
+const menuBtn = document.getElementById("menu-icon");
 const navbar = document.getElementById("navbar");
 
 menuBtn.addEventListener("click", () => {
     navbar.classList.toggle("active");
 });
+
